@@ -1,0 +1,5 @@
+{
+    // プロジェクトごとに仮想環境のパスを設定してください
+    // 例: "C:\\Users\\yourname\\Workspace\\.virtualenvs\\venv_yourproject\\Scripts\\python.exe"
+    "python.defaultInterpreterPath": "C:\\Users\\pawab\\Workspace\\.virtualenvs\\venv_windows_template\\Scripts\\python.exe"
+}
